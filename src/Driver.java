@@ -1,9 +1,4 @@
-/*
- * ---------------------------
- * Assignment 3   
- * Written by: Robert CHEN 40241709 and Alexandru Ilie 40248696
- * COMP 249 Section S - Winter 2023
- * 27th march  2023
+
  * --------------------------- */
 /**
  * Driver file to run each parts for user's convenience
